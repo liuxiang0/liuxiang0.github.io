@@ -5,7 +5,7 @@
 ### Self Introduction
 -----
 
-1992年毕业于[**复旦大学数学所**](https://math.fudan.edu.cn/)，专业是计算几何-计算机辅助几何设计（CAGD）。
+1992年毕业于[**复旦大学数学所**](https://math.fudan.edu.cn/)，获得硕士学位。专业是计算几何-计算机辅助几何设计（[CAGD](https://www.sciencedirect.com/journal/computer-aided-geometric-design/about/aims-and-scope)）。
 
 毕业后从事CAD/GIS/AVL工作，先后在国企和外企从事技术支持、研发和市场拓展工作，并在ESRI系列软件、InterGraph系列软件、Autodesk等众多GIS平台软件上的应用开发。
 
@@ -46,8 +46,8 @@ github: <https://www.eits.cn>
 
 <!-- https://xiangliu0.github.io -->
 
-BLOG:   <http://www.yuelea.cn>
+BLOG:   <https://blog.csdn.com/liuxiang3>
 
-<!-- https://blog.csdn.com/liuxiang3 -->
+<!-- http://www.yuelea.cn -->
 
 GGB :  <https://www.geogebra.org/kumath>
