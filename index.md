@@ -42,10 +42,12 @@ Email: <liuxiangxyd@163.com>
 
 You can browse the following websites: 
 
-github: https://www.eits.cn   
-        <!-- https://xiangliu0.github.io -->
+github: <https://www.eits.cn>   
 
-BLOG:   http://www.yuelea.cn  
-        <!-- https://blog.csdn.com/liuxiang3 -->
+<!-- https://xiangliu0.github.io -->
 
-GGB :  https://www.geogebra.org/kumath
+BLOG:   <http://www.yuelea.cn>
+
+<!-- https://blog.csdn.com/liuxiang3 -->
+
+GGB :  <https://www.geogebra.org/kumath>
