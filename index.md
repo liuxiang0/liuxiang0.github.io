@@ -50,4 +50,4 @@ BLOG:   <https://blog.csdn.com/liuxiang3>
 
 <!-- http://www.yuelea.cn -->
 
-GGB :  <https://www.geogebra.org/kumath>
+GGB :  <https://www.geogebra.org/u/kumath>
