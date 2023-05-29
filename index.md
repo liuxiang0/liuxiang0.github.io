@@ -1,11 +1,13 @@
 ## Welcome to Liu_Xiang's GitHub Pages
 
-![photo](img/20211202.jpg)
+![photo](img/IMG_20230314_141427.jpg)
 
 ### Self Introduction
 -----
 
-1992年毕业于[**复旦大学数学所**](https://math.fudan.edu.cn/)，获得硕士学位。专业是计算几何-计算机辅助几何设计（[CAGD](https://www.sciencedirect.com/journal/computer-aided-geometric-design/about/aims-and-scope)）。
+1992年毕业于[**复旦大学数学所**](https://math.fudan.edu.cn/)，获得硕士学位。  
+
+专业是计算几何-计算机辅助几何设计（[CAGD](https://www.sciencedirect.com/journal/computer-aided-geometric-design/about/aims-and-scope)）。
 
 毕业后从事CAD/GIS/AVL工作，先后在国企和外企从事技术支持、研发和市场拓展工作，并在ESRI系列软件、InterGraph系列软件、Autodesk等众多GIS平台软件上的应用开发。
 
@@ -29,10 +31,11 @@ My current interest is to continue my mathematical studies and to train in mathe
 ### Python Programmer
 -----
 
-目前的主要开发语言是 `Python`，正在学习 `Go` 语言。
+目前的主要开发语言是 Python 语言。
 
 尤其对Python库 `Sympy, Numpy, Matplotlib` 等与数学有关的库有浓厚的兴趣。
 
+主要兴趣是利用 OCR，AI 技术提高教学质量和体量。
 
 ### Support or Contact
 -----
