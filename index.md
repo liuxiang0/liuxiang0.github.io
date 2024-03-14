@@ -1,6 +1,6 @@
 ## Welcome to Liu_Xiang's GitHub Pages
 
-![photo](img/IMG_20230314_141427.jpg)
+![photo](img/lxsmall.jpg)
 
 ### Self Introduction
 -----
@@ -15,7 +15,7 @@
 
 20年后投身教育行业，做教育产品和学科培训，如微课设备、智慧教室系统、电子阅卷平台等。
 
-现在的兴趣是继续有关应用数学领域的研究与探讨，从事有关数学学科教育的研究与培训，通过计算机软件和数学融合，达到提高数学学习效率。
+现在的兴趣是继续有关应用数学领域的研究与探讨，从事有关数学学科教育的研究与培训，通过计算机软件和数学融合，达到提高数学学习效率。AI+数学教育是未来发展方向。
 
 I graduated from the Institute of Mathematics of Fudan University in 1992. My major is CAGD (Computer Aided Geometric Design).   
 
@@ -25,7 +25,7 @@ After graduation I mainly engaged in CAD/GIS/AVL.
 
 20 years later, I focus on the education industry, doing educational products and subject training.  
 
-My current interest is to continue my mathematical studies and to train in mathematical subjects to provide mathematical learning efficiency through the integration of computer software and mathematics.  
+My current interest is to continue my mathematical studies and to train in mathematical subjects to provide mathematical learning efficiency through the integration of computer software and mathematics. Doing mathematics education with AI. 
 
 
 ### Python Programmer
